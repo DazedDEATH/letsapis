@@ -1,5 +1,5 @@
 const https = require('https');
-const url = `https://api.breakingbadquotes.xyz/v1/quotes/10`;
+const url = `https://api.breakingbadquotes.xyz/v1/quotes/50`;
 
 function esSaul(q) {
     return q.author === 'Saul Goodman';
